@@ -3,3 +3,22 @@ body {
   background-color: salmon;
   text-align: center;
 }
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+}
+
+img:hover {
+  outline-style: solid;
+  color: yellow;
+}
+
