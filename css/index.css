@@ -16,3 +16,9 @@ img {
   height: 300px;
   margin: 10px;
 }
+
+img:hover {
+  outline-style: solid;
+  color: yellow;
+}
+
