@@ -1,0 +1,16 @@
+body {
+    font-family: Gill Sans, sans-serif;
+    background-color: silver;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  img {
+    display: inline;
+    float: left;
+    height: 500px;
+    width: 500px;
+  }
+  
